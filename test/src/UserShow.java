@@ -11,6 +11,7 @@ public class UserShow {
         String showurl = "http://i.api.weibo.com/2/users/show.json";
         BufferedReader reader;
         ArrayList<String> uidlist =  new ArrayList<>(); 
+        //测试分支
 		try {
 		reader = new BufferedReader(new FileReader("/data1/guowu/tmp"));
         String line = reader.readLine();
