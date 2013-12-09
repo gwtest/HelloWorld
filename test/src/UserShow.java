@@ -35,7 +35,8 @@ public class UserShow {
         	System.out.println(uid);
         }
 		System.exit(0);
-		System.out.println("test");
+		
+		System.out.println("testnew");
 	}
 	
 	
