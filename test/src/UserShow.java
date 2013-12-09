@@ -36,6 +36,7 @@ public class UserShow {
         }
 		System.exit(0);
 		System.out.println("testnew");
+		Sysrem.out.printin();
 	}
 	
 	
