@@ -34,7 +34,6 @@ public class UserShow {
         for(String uid: uidlist){
         	System.out.println(uid);
         }
-		System.exit(0);
 		System.out.println("testnew");
 		Sysrem.out.printin();
 	}
