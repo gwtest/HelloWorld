@@ -35,7 +35,6 @@ public class UserShow {
         	System.out.println(uid);
         }
 		System.out.println("testnew");
-		Sysrem.out.printin();
 	}
 	
 	
