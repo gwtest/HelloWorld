@@ -12,7 +12,6 @@ public class UserShow {
         BufferedReader reader;
         ArrayList<String> uidlist =  new ArrayList<>(); 
         //测试分支
-        
 		try {
 		reader = new BufferedReader(new FileReader("/data1/guowu/tmp"));
         String line = reader.readLine();
