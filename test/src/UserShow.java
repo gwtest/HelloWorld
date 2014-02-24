@@ -7,6 +7,7 @@ import cn.sina.api.commons.util.ApiHttpClient;
 
 public class UserShow {
 	public static void main(String[] args) {
+		
 		ApiHttpClient httpclient = new ApacheHttpClient();
         String showurl = "http://i.api.weibo.com/2/users/show.json";
         BufferedReader reader;
