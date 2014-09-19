@@ -11,7 +11,7 @@ import java.util.Map;
 import java.util.Set;
 
 public class Apriori {
-
+//======
 	private final static int SUPPORT = 2; // 支持度阈值
 
 	private final static double CONFIDENCE = 0.7; // 置信度阈值
